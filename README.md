@@ -1,10 +1,7 @@
 # IncomeShield AI  
 Real-Time Income Protection Platform for Gig Workers  
+ 
 
-### Team: Straw Hats  
-Guidewire DEVTrails 2026  
-
-![Hackathon](https://img.shields.io/badge/Hackathon-DEVTrails%202026-blue)
 ![Status](https://img.shields.io/badge/Project-Phase%202-orange)
 
 ---
@@ -124,9 +121,9 @@ This helps prevent false claims while protecting genuine users.
 
 🎥 Demo Video: https://drive.google.com/file/d/1IvgXqaa7UBfbz1FjEwqpoLlwN44yXTBZ/view?usp=sharing  
 
-🌐 Live Project: https://shantha26.github.io/incomeshield-ai/index.html
+🌐 Live Project: https://selva-345.github.io/Incomeshield-AI/
 
-💻 GitHub Repo: https://github.com/shantha26/incomeshield-ai 
+💻 GitHub Repo: https://github.com/selva-345/Incomeshield-AI
 
 ---
 
@@ -142,7 +139,3 @@ It transforms insurance into a real-time support system instead of a delayed pro
 
 ---
 
-## Team
-
-Straw Hats – DEVTrails 2026  
-Project: IncomeShield AI
