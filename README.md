@@ -1,8 +1,5 @@
 # IncomeShield AI  
 Real-Time Income Protection Platform for Gig Workers  
- 
-
-![Status](https://img.shields.io/badge/Project-Phase%202-orange)
 
 ---
 
